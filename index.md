@@ -6,3 +6,5 @@ Many important and interesting ideas
  - Why are we here
  - Who are we anyway
  - What is this blog talking about
+
+What else should i talk about?
